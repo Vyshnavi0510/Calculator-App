@@ -14,5 +14,5 @@ A simple and responsive calculator built using *React.js*. This project demonstr
 - React.js
 - JavaScript (ES6+)
 - HTML5 & CSS3
-- Bootstrap / Material UI (if you used them)
+- Bootstrap / Material UI 
 
